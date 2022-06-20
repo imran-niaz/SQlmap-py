@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Sun May 22 16:38:37 2022 as: nmap -sC -sV -p- -T5 -oA fullScan sylviamatthewsbridals.com
+Host: 104.21.88.141 ()	Status: Up
+Host: 104.21.88.141 ()	Status: Timeout
+# Nmap done at Sun May 22 16:53:38 2022 -- 1 IP address (1 host up) scanned in 900.96 seconds

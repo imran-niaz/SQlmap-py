@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.92 scan initiated Sun May 22 16:38:37 2022 as: nmap -sC -sV -p- -T5 -oA fullScan sylviamatthewsbridals.com -->
+<nmaprun scanner="nmap" args="nmap -sC -sV -p- -T5 -oA fullScan sylviamatthewsbridals.com" start="1653251917" startstr="Sun May 22 16:38:37 2022" version="7.92" xmloutputversion="1.05">
+<scaninfo type="syn" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<hosthint><status state="up" reason="unknown-response" reason_ttl="0"/>
+<address addr="104.21.88.141" addrtype="ipv4"/>
+<hostnames>
+<hostname name="sylviamatthewsbridals.com" type="user"/>
+</hostnames>
+</hosthint>
+<host starttime="1653251918" endtime="1653252818" timedout="true"><status state="up" reason="syn-ack" reason_ttl="53"/>
+<address addr="104.21.88.141" addrtype="ipv4"/>
+<hostnames>
+<hostname name="sylviamatthewsbridals.com" type="user"/>
+</hostnames>
+<times srtt="106423" rttvar="2923" to="118115"/>
+</host>
+<runstats><finished time="1653252818" timestr="Sun May 22 16:53:38 2022" summary="Nmap done at Sun May 22 16:53:38 2022; 1 IP address (1 host up) scanned in 900.96 seconds" elapsed="900.96" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>

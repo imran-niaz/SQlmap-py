@@ -1,0 +1,7 @@
+# Nmap 7.92 scan initiated Sun May 22 16:38:37 2022 as: nmap -sC -sV -p- -T5 -oA fullScan sylviamatthewsbridals.com
+Nmap scan report for sylviamatthewsbridals.com (104.21.88.141)
+Host is up (0.11s latency).
+Other addresses for sylviamatthewsbridals.com (not scanned): 172.67.181.10 2606:4700:3034::6815:588d 2606:4700:3034::ac43:b50a
+Skipping host sylviamatthewsbridals.com (104.21.88.141) due to host timeout
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun May 22 16:53:38 2022 -- 1 IP address (1 host up) scanned in 900.96 seconds
